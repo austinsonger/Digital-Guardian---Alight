@@ -1,8 +1,8 @@
 # Leveraging Word
 
-![](../.gitbook/assets/1.png)
+<!--![](../.gitbook/assets/1.png)-->
 
-
+<img src="../.gitbook/assets/1.png" width="75%" height="75%" />
 
 ![](../.gitbook/assets/2.png)
 
@@ -11,8 +11,6 @@
 ![](../.gitbook/assets/4.png)
 
 ![](../.gitbook/assets/5.png)
-
-
 
 ![](../.gitbook/assets/6.png)
 
